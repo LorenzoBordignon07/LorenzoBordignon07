@@ -6,18 +6,19 @@
 ___
 
 ## 🌱 Atualmente aprendendo
-- JavaScript
-- Frameworks JavaScript (planejando começar com React)
+> JavaScript
+> 
+> Frameworks JavaScript (planejando começar com React)
 
 ___
 
 ## Minhas Formações 🎓
-  ### Sou formado no ensino médio técnico
-  >TecPuc(PUC-PR) / 2022-2023
+###Ensino Técnico
+> TecPuc(PUC-PR) / 2022-2023
 >
-  >Sesi(SENAI) / 2024
+> Sesi(SENAI) / 2024
 >
-  >Aguardando para ingressar em uma faculdade.
+> Aguardando para ingressar em uma faculdade.
 
 <!--
 **LorenzoBordignon07/LorenzoBordignon07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
