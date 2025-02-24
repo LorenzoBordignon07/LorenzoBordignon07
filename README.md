@@ -1,5 +1,6 @@
 # Sobre mim 😄
 > Sou Desenvolvedor Web e estou sempre aprendendo.
+> 
 > Atualmente, estou focado em aprimorar minhas habilidades em front-end.
 
 ___
@@ -13,7 +14,9 @@ ___
 ## Minhas Formações 🎓
   ### Sou formado no ensino médio técnico
   >TecPuc(PUC-PR) / 2022-2023
+>
   >Sesi(SENAI) / 2024
+>
   >Aguardando para ingressar em uma faculdade.
 
 <!--
