@@ -1,12 +1,12 @@
-## 🌱 Atualmente aprendendo
+# 🌱 Atualmente aprendendo
 > JavaScript
 > 
 > Frameworks JavaScript (planejando começar com React)
 
 ___
 
-## Minhas Formações 🎓
-### Ensino Técnico
+# 🎓 Minhas Formações
+## Ensino Técnico
 > TecPuc(PUC-PR) / 2022-2023
 >
 > Sesi(SENAI) / 2024
