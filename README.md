@@ -1,4 +1,7 @@
-## Hi there 👋
+# Olá, sou o Lorenzo 👋
+
+## Sobre mim 😄
+Sou Desenvolvedor Web. Atualmente, estou focado em aprimorar minhas habilidades em front-end e expandir meu conhecimento em JavaScript.
 
 <!--
 **LorenzoBordignon07/LorenzoBordignon07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
