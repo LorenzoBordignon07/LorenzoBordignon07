@@ -13,7 +13,7 @@ ___
 ___
 
 ## Minhas Formações 🎓
-###Ensino Técnico
+### Ensino Técnico
 > TecPuc(PUC-PR) / 2022-2023
 >
 > Sesi(SENAI) / 2024
