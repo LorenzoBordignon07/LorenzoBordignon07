@@ -8,6 +8,8 @@ ___
 - JavaScript
 - Frameworks JavaScript (planejando começar com React)
 
+___
+
 ## Minhas Formações 🎓
   ### Sou formado no ensino médio técnico
   >TecPuc(PUC-PR) / 2022-2023
