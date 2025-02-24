@@ -1,7 +1,5 @@
 # 🌱 Atualmente aprendendo
 > JavaScript
-> 
-> Frameworks JavaScript (planejando começar com React)
 
 ___
 
@@ -10,6 +8,7 @@ ___
 > TecPuc(PUC-PR) / 2022-2023
 >
 > Sesi(SENAI) / 2024
+___
 ## Graduação
 > Aguardando para ingressar em uma faculdade.
 
