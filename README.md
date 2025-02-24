@@ -10,7 +10,7 @@ ___
 > TecPuc(PUC-PR) / 2022-2023
 >
 > Sesi(SENAI) / 2024
->
+## Graduação
 > Aguardando para ingressar em uma faculdade.
 
 <!--
