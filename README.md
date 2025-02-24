@@ -1,10 +1,3 @@
-# Sobre mim 😄
-> Sou Desenvolvedor Web e estou sempre aprendendo.
-> 
-> Atualmente, estou focado em aprimorar minhas habilidades em front-end.
-
-___
-
 ## 🌱 Atualmente aprendendo
 > JavaScript
 > 
