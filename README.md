@@ -1,6 +1,6 @@
 # 🌱 Atualmente aprendendo
 > JavaScript
-
+> Atualmente, estou aprendendo a programar com JavaScript.
 ___
 
 # 🎓 Minhas Formações
@@ -8,7 +8,6 @@ ___
 > TecPuc(PUC-PR) / 2022-2023
 >
 > Sesi(SENAI) / 2024
-___
 ## Graduação
 > Aguardando para ingressar em uma faculdade.
 
