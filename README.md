@@ -4,13 +4,13 @@ ___
 
 # 🎓 Minhas Formações
 ## Ensino Médio Técnico
-> TecPuc(PUC-PR) / 2022-2023
+> ### TecPuc(PUC-PR) / 2022-2023
 > 
 > Curso Técnico em Informática
 >
 > ___ 
 >
-> Sesi(SENAI) / 2024
+> ### Sesi(SENAI) / 2024
 > 
 > Curso Técnico em Análise e Desenvolvimento de Sistemas
 ## Graduação
