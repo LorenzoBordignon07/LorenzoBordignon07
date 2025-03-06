@@ -1,5 +1,5 @@
 # 🎓 Minhas Formações
-## Ensino Médio Técnico
+>## Ensino Médio Técnico
 > ### TecPuc(PUC-PR) / 2022-2023
 > 
 > Curso Técnico em Informática
@@ -13,6 +13,8 @@
 > 
 ## Graduação
 > Aguardando para ingressar em uma faculdade.
+>___
+> 
 # 🌱 Atualmente aprendendo
 > Atualmente, estou aprendendo a programar com JavaScript.
 ___
