@@ -1,7 +1,3 @@
-# 🌱 Atualmente aprendendo
-> Atualmente, estou aprendendo a programar com JavaScript.
-___
-
 # 🎓 Minhas Formações
 ## Ensino Médio Técnico
 > ### TecPuc(PUC-PR) / 2022-2023
@@ -15,6 +11,9 @@ ___
 > Curso Técnico em Análise e Desenvolvimento de Sistemas
 ## Graduação
 > Aguardando para ingressar em uma faculdade.
+# 🌱 Atualmente aprendendo
+> Atualmente, estou aprendendo a programar com JavaScript.
+___
 
 <!--
 **LorenzoBordignon07/LorenzoBordignon07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
