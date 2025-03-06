@@ -9,6 +9,8 @@
 > ### Sesi(SENAI) / 2024
 > 
 > Curso Técnico em Análise e Desenvolvimento de Sistemas
+>___
+> 
 ## Graduação
 > Aguardando para ingressar em uma faculdade.
 # 🌱 Atualmente aprendendo
