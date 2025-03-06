@@ -11,7 +11,7 @@
 > Curso Técnico em Análise e Desenvolvimento de Sistemas
 >___
 > 
-## Graduação
+>## Graduação
 > Aguardando para ingressar em uma faculdade.
 >___
 > 
